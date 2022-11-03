@@ -1,6 +1,6 @@
 build/
-# dist/
+dist/
 # src/transformers.egg-info*
 tests/unit/__pycache__/*
 tests/__pycache__/*
-src/transformers/*
+src/transformers.egg-info/*
